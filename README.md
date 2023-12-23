@@ -26,8 +26,8 @@ Users should be able to:
 ![](screenshot.png)
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution url==>](https://www.frontendmentor.io/solutions/blog-preview-challenge-using-html5-and-css-3vPHay2mEx)
+- Live Site URL: [live site URL==>](https://anuj846k.github.io/BlogPreviewchallenge/)
 
 ## My process
 My process was simple. Let me explain my approach. I began by creating a main '<div>'. Inside that, I fashioned a card '<div>' and centered it. Within the card '<div>', I added an '<img>' tag, text, and a footer. It's important to note that the card '<div>' is set to display: flex, and the flex-direction is set to column, ensuring that all elements appear in a column layout.
@@ -53,7 +53,7 @@ I learned about many things like i was confused between display flex a lot befor
 
 ## Author
 
-- Website - [Anuj Kumar](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Anuj Kumar](https://github.com/anuj846k)
+- Frontend Mentor - [@anuj846k](https://www.frontendmentor.io/profile/anuj846k)
 - Twitter - [@anuj846kk](https://www.twitter.com/@anuj846kk)
 
